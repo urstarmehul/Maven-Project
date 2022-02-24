@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mehul.product.dao.ProductDAOimplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.057 s - in com.mehul.product.dao.ProductDAOimplTest
